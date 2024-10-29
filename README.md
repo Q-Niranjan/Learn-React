@@ -15,7 +15,7 @@ Follow these steps to set up the project locally:
 1. **Create the project with Vite:**
    ```bash
    npm create vite@4.1.0
-   cd FoodApp
+   cd your-project-name
    npm install
    npm run dev
    ```
