@@ -1,6 +1,6 @@
 # FoodApp
 
-Welcome to FoodApp! This project is built using Vite and utilizes the Spoonacular API to bring you a delicious experience.
+Welcome to FoodApp! This project is built using Vite with React and utilizes the Spoonacular API [spoonacular.com](https://spoonacular.com/) to bring you a delicious experience.
 
 ## Features
 
